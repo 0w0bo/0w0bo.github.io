@@ -1,0 +1,16 @@
+Package: com.0w0bo.dockicon6
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 0w0bo
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.0w0bo.dockicon6_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3950
+MD5sum: 15de1f3297a3c234899ad79d07efa6b5
+SHA1: 7b1fe015e8e690a0e1d2e12d1723bfd92978623e
+SHA256: 13e582256674be0eb8b3df7bec6e76f21c84d074f3d276c06a68e5fc168eeee4
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 0w0bo
+Name: dockicon6
+
